@@ -1,0 +1,5 @@
+requests==2.10.0
+prometheus_client
+ConfigArgParse
+sseclient
+redis
